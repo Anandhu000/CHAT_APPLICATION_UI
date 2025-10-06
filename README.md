@@ -31,5 +31,5 @@ This project demonstrates UI design, real-time messaging, authentication, and de
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/Anandhu000/chat-application-ui.git
-cd chat-application-ui
+[git clone https://github.com/Anandhu000/chat-application-ui.git
+cd chat-application-ui](https://github.com/Anandhu000/CHAT_APPLICATION_UI.git)
