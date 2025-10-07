@@ -1,28 +1,21 @@
+MIT License
 
-This README gives your repo a **professional structure and immediate clarity** to anyone who visits it.
+Copyright (c) 2025 [Anandhu000]
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## **5️⃣ Add Documentation Files**
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-Create a `/docs` folder and include:
-
-### 📝 `API_Documentation.md`
-Include your API table, request/response samples, and authentication notes (from your earlier notes).
-
-### 🧩 `Challenges_Solutions.md`
-Add the “Challenges & Solutions” section from your 1000-word explanation.
-
-### 📄 `Project_Report.pdf`
-Use your detailed 1000-word document (I can make this into a formatted Word or PDF for you if you want).
-
-### 🖼️ `Screenshots/`
-Upload screenshots of your UI (login, chat, group, settings, etc).
-
----
-
-## **6️⃣ Create a .gitignore**
-
-Inside your project root, create `.gitignore` with this:
-
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
